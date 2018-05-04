@@ -1,11 +1,10 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-# Employee Directory with React and Node
+# Employee Contact App with React and Node
 
-Employee directory is a sample application that allows you to look up employees by name, view the details of an employee,
+Contact App is a sample application that allows you to look up employees by name, view the details of an employee,
 call, text, or email an employee, and navigate up and down the org chart.
 
-This version of Employee Directory is built with [React](http://facebook.github.io/react/) and [Node.js]().
+This version of Contact App is built with [React](http://facebook.github.io/react/) and [Node.js]().
 
 ![alt tag](assets/directory_search.png)
 
@@ -17,10 +16,6 @@ You can test the application in your browser:
 - By deploying the application's Node.js server on Heroku
 
 You can also run the application as a hybrid app in Cordova.
-
-## Hosted Version
-
-Click [here](http://react-directory.herokuapp.com) to run the hosted version in your browser.
 
 ## Running the Node.js Server Locally
 
@@ -43,11 +38,6 @@ Click [here](http://react-directory.herokuapp.com) to run the hosted version in 
   ```
 
 1. Open a browser and access: [http://localhost:5000](http://localhost:5000)
-
-
-## Deploying the Node.js Server to Heroku
-
-Click the "Deploy to Heroku" button at the top of this page to deploy the application to your own Heroku instance.
 
 
 ## Running in Cordova
